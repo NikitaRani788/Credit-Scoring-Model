@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+models/best_credit_score.pkl
+data/processed/final_dataset.csv
+models/feature_names.pkl
+data/processed/cleaned.csv
